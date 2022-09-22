@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0c33599f.css",
+    "main.js": "/static/js/main.a055806d.js",
+    "static/media/thinkersPage.png": "/static/media/thinkersPage.ed61c9651a787e54c78e.png",
+    "static/media/profile.png": "/static/media/profile.9bccb1be19b56d8a548f.png",
+    "static/media/intro-bg.jpg": "/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/project3.png": "/static/media/project3.3403db58db16af877806.png",
+    "static/media/project4.png": "/static/media/project4.c3e854073d70c97795ad.png",
+    "static/media/project2.png": "/static/media/project2.4fd95a0c57f8c3fcf31e.png",
+    "static/media/project1.png": "/static/media/project1.d19be43857af8609185c.png",
+    "index.html": "/index.html",
+    "main.0c33599f.css.map": "/static/css/main.0c33599f.css.map",
+    "main.a055806d.js.map": "/static/js/main.a055806d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c33599f.css",
+    "static/js/main.a055806d.js"
+  ]
+}
